@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\48571\source\repos\OdwracanieDystrybuanty\OdwracanieDystrybuanty\main.cpp(9,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  OdwracanieDystrybuanty.vcxproj -> C:\Users\48571\source\repos\OdwracanieDystrybuanty\x64\Debug\OdwracanieDystrybuanty.exe
